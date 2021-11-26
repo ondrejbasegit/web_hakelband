@@ -1,0 +1,82 @@
+#################### Banner #####################
+banner:
+  enable : true
+  title : "HAKEL BAND"
+  content : "Nové album Moucha v pivu nyní v prodeji!"
+  image : "images/hero-image/hakelband_uvod.jpg"
+  button:
+    enable : true
+    label : "VIDEOKLIPY"
+    link : "#videoklipy"
+
+
+#################### Novinky #####################
+vision:
+  enable : true
+  section : "Novinky"
+  vision_item:
+  - title : "Album Moucha v pivu právě v prodeji"
+    image : "images/novinky/novinky_mouchavpivu.jpg"
+    content : "Pusťte videoklipy k nové desce už nyní na Youtube<br> kupujte album na koncertech"
+    
+  - title : "HAKELFEST 2020"
+    image : "images/novinky/novinky_hakelfest.jpg"
+    content : "V aereálu firmy Hakel proběhl první ročník rockového festivalu Hakelfest se skvělým lineupem <br>Vystoupili například Miro Śmajda, RaiN, Vendetta a další"
+    
+  - title : "Kapela Hakel band startuje"
+    image : "images/novinky/novinky_zatimnevim.jpg"
+    content : "Sledujte nové klipy na Youtube a nejděte nás na koncertech!"
+
+
+#################### Videoklipy #####################
+mission:
+  enable : true
+  title : "Videoklipy"
+  section : "Videoklipy"
+  content : "Videoklip k nové desce Moucha v pivu je venku!"
+  video_thumb_1: "images/video-thumb-1.jpg"
+  video_id_1: "pPo2wYIi_EE"
+  video_thumb_2: "images/video-thumb-2.jpg"
+  video_id_2: "Yfeef35ZK3s"
+  footer : "Sledujte náš Youtube kanál!"
+  footer_desc : "Prohlédněte si zbytek našich videoklipů, ať vám žádný neunikne! <br>Pro novinky nás sledujte také na Facebooku"
+
+
+#################### Hakelfest ####################
+product:
+  enable : true
+  section : "Hakelfest"
+  title : "Hakelfest"
+  content : "Hakelfest je rockový festival odehrávající se pod záštitou firmy Hakel v areálu firmy na adrese Bratří Štefanů 980, Hradec Králové. <br>Předprodej vstupenek v síti TICKETMASTER.CZ nebo na místě."
+  product_item:
+  - title : "Miro Šmajda & Terrapie"
+    image : "images/hakelfest/hakelfest_mirosmajda.jpg"
+    content : "Zpěvák, muzikant a textař Miro Šmajda, který se do povědomí dostal jako jeden z nejúspěšnějších tváří československé Superstar, ale taky jako vítěz kategorií album roku, skladba roku a objev roku v anketě Žebřík. Na Hakelfestu 2020 zahrál se svou kapelou Terrapie."
+    project_url : "#"
+    
+  - title : "RaiN"
+    image : "images/hakelfest/hakelfest_rain.jpg"
+    content : "Zpočátku thrash metalová kapela RAiN působí na naší scéně už téměř 20 let, aza svou kariéru kapela odehrála stovky koncertů a festivalů nejen v ČR, ale i v Polsku či Německu. RAiN si zahrál po boku takových kapel jako je Masterplan, Blaze Bayley, Absolva, Turbo, Citron, Kreyson, Škwor, Limetall, Traktor, Dymytry, Vilda Čok, Komunál, Walda Gand, Argema a spousty dalších. Zůčastnila se také Hakelfestu 2020."
+    project_url : "#"
+    
+  - title : "Hakel band"
+    image : "images/hakelfest/hakelfest_hakelband.jpg"
+    content : "Domácí kapela Hakel band znikla v roce 2016 v Hradci Králové, původně jen pro vystoupení na podnikových akcích, ale nyní mají za sebou první album doplněné videoklipy a mimo jiné se zůčastnili jako pořadatelská kapela Hakelfestu 2020."
+    project_url : "#"
+
+
+###################### Contact ####################
+contact:
+  enable : true
+  section : "Kontakt"
+  title : "Hakel band"
+  image : "images/map-bg.jpg"
+  content : "Co má společného firma Hakel a Co má společného firma Hakel a kapela HakelBand? <br> <br> Náhoda, nebo dobře promyšlený plán? Ačkoliv přepěťová ochrana, kterou se společnost Hakel s.r.o. zaobírá, nemá s hudbou tolik společného, tak se šéf společnosti Hakel, Pavel Hudec, spolu se svými zaměstnanci rozhodli založit kapelu HakelBand. <br> <br> Přiměla je k tomu chuť zahrát svým kolegům na jejich firemních akcích. Nikdo ale netušil, že kapela vydá dvě desky a začnou koncertovat po boku slavnějších skupin. <br> Tato hradecká parta aktuálně dodělala novou desku i videoklipy, které jsou ke shlédnutí na Youtube. <br><br>V případě zájmu nás neváhejte kontaktovat na emailu: <br>hakelband@hakel.cz <br><br>Nezapomeňte sledovat naše sociální sítě!"
+
+  
+################### call to action #################
+call_to_action:
+  enable : false
+  title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
+  button_label : "Apply Now"
+  button_link : "career"
