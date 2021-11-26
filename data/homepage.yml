@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "HAKEL BAND"
-  content : "Nové album Moucha v pivu nyní v prodeji!"
+  content : "Nové album Moucha v pivu <br>nyní v prodeji!"
   image : "images/hero-image/hakelband_uvod.jpg"
   button:
     enable : true
@@ -38,7 +38,7 @@ mission:
   video_id_1: "pPo2wYIi_EE"
   video_thumb_2: "images/video-thumb-2.jpg"
   video_id_2: "Yfeef35ZK3s"
-  footer : "Sledujte náš Youtube kanál!"
+  footer : "Sledujte náš Youtube!"
   footer_desc : "Prohlédněte si zbytek našich videoklipů, ať vám žádný neunikne! <br>Pro novinky nás sledujte také na Facebooku"
 
 
@@ -51,12 +51,12 @@ product:
   product_item:
   - title : "Miro Šmajda & Terrapie"
     image : "images/hakelfest/hakelfest_mirosmajda.jpg"
-    content : "Zpěvák, muzikant a textař Miro Šmajda, který se do povědomí dostal jako jeden z nejúspěšnějších tváří československé Superstar, ale taky jako vítěz kategorií album roku, skladba roku a objev roku v anketě Žebřík. Na Hakelfestu 2020 zahrál se svou kapelou Terrapie."
+    content : "Zpěvák a muzikant Miro Šmajda se do povědomí dostal jako jeden z nejúspěšnějších tváří československé Superstar, ale taky jako vítěz kategorií album, skladba a objev roku v anketě Žebřík. Na Hakelfestu 2020 zahrál se svou kapelou Terrapie."
     project_url : "#"
     
   - title : "RaiN"
     image : "images/hakelfest/hakelfest_rain.jpg"
-    content : "Zpočátku thrash metalová kapela RAiN působí na naší scéně už téměř 20 let, aza svou kariéru kapela odehrála stovky koncertů a festivalů nejen v ČR, ale i v Polsku či Německu. RAiN si zahrál po boku takových kapel jako je Masterplan, Blaze Bayley, Absolva, Turbo, Citron, Kreyson, Škwor, Limetall, Traktor, Dymytry, Vilda Čok, Komunál, Walda Gand, Argema a spousty dalších. Zůčastnila se také Hakelfestu 2020."
+    content : "Zpočátku thrash metalová kapela RAiN působí na naší scéně už téměř 20 let, a za svou kariéru kapela odehrála stovky koncertů a festivalů nejen v ČR, ale i v Polsku či Německu. Zůčastnila se také Hakelfestu 2020."
     project_url : "#"
     
   - title : "Hakel band"
