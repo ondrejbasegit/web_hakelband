@@ -49,9 +49,9 @@ product:
   title : "Hakelfest"
   content : "Hakelfest je rockový festival odehrávající se pod záštitou firmy Hakel v areálu firmy na adrese Bratří Štefanů 980, Hradec Králové. <br>Předprodej vstupenek v síti TICKETMASTER.CZ nebo na místě."
   product_item:
-  - title : "Miro Šmajda & Terrapie"
+  - title : "Miro Šmajda"
     image : "images/hakelfest/hakelfest_mirosmajda.jpg"
-    content : "Jednoa z nejúspěšnějších tváří československé Superstar Miro Šmajda je mimo jiné i několikanásobným vítězem v anketě Žebřík. Na Hakelfestu 2020 zahrál se svou kapelou Terrapie."
+    content : "Jedna z nejúspěšnějších tváří československé Superstar Miro Šmajda je mimo jiné i několikanásobným vítězem v anketě Žebřík. Na Hakelfestu 2020 zahrál se svou kapelou Terrapie."
     project_url : "#"
     
   - title : "RaiN"
