@@ -17,15 +17,15 @@ vision:
   vision_item:
   - title : "Album Moucha v pivu právě v prodeji"
     image : "images/novinky/novinky_mouchavpivu.jpg"
-    content : "Pusťte videoklipy k nové desce už nyní na Youtube<br> kupujte album na koncertech"
+    content : "Pusťte videoklipy k nové desce už nyní na Youtube<br> kupujte album na koncertech <br>Pro další novinky sledujte náš [Facebook!](https://www.facebook.com/hakelband)"
     
   - title : "HAKELFEST 2020"
     image : "images/novinky/novinky_hakelfest.jpg"
-    content : "V aereálu firmy Hakel proběhl první ročník rockového festivalu Hakelfest se skvělým lineupem <br>Vystoupili například Miro Śmajda, RaiN, Vendetta a další"
+    content : "V aereálu firmy Hakel proběhl první ročník rockového festivalu Hakelfest se skvělým lineupem <br>Vystoupili například Miro Śmajda, RaiN, Vendetta a další <br>Pro další novinky sledujte náš [Facebook!](https://www.facebook.com/hakelband)"
     
   - title : "Kapela Hakel band startuje"
     image : "images/novinky/novinky_zatimnevim.jpg"
-    content : "Sledujte nové klipy na Youtube a nejděte nás na koncertech!"
+    content : "Sledujte nové klipy na Youtube a nejděte nás na koncertech! <br>Pro další novinky sledujte náš [Facebook!](https://www.facebook.com/hakelband)"
 
 
 #################### Videoklipy #####################
@@ -38,31 +38,66 @@ mission:
   video_id_1: "pPo2wYIi_EE"
   video_thumb_2: "images/video-thumb-2.jpg"
   video_id_2: "Yfeef35ZK3s"
-  footer : "Sledujte náš Youtube!"
-  footer_desc : "Prohlédněte si zbytek našich videoklipů, ať vám žádný neunikne! <br>Pro novinky nás sledujte také na Facebooku"
+  footer : "Další videoklipy sledujte [zde!](https://www.youtube.com/channel/UC3YkcU2OmbZJPgwS047DiEw)"
+  footer_desc : ""
+
+########### Career ############
+career:
+  enable : true
+  title : "Aktuální koncerty"
+  job_item:
+  - name : "Hakelfest 2020"
+    location : "19.9.2020, Hradec Králové"
+    form_link : "https://www.seznam.cz"
+    
+  - name : "Koncert"
+    location : "Datum, Lokace"
+    form_link : "https://www.google.com"
+
+  - name : "Koncert"
+    location : "Datum, Lokace"
+    form_link : "https://www.seznam.cz"
+
+#################### Kapela ####################
+product:
+  enable : true
+  section : "Kapela"
+  title : "Hakel Band"
+  content : "Co má společného firma [Hakel](https://www.hakel.com) a kapela Hakel Band? <br> <br> Náhoda, nebo dobře promyšlený plán? Ačkoliv přepěťová ochrana, kterou se společnost [Hakel s.r.o.](https://www.hakel.com) zaobírá, nemá s hudbou tolik společného, tak se šéf společnosti Hakel, Pavel Hudec, spolu se svými zaměstnanci rozhodli založit kapelu Hakel Band. <br> <br>Přiměla je k tomu chuť zahrát svým kolegům na jejich firemních akcích. Nikdo ale netušil, že kapela vydá dvě desky a začnou koncertovat po boku slavnějších skupin. <br> <br>Naší kompletní diskografii včetně ukázek hudby, textů a akordů naleznete [zde](https://www.seznam.cz). Fotogalerii kapely i koncertů můžete nalézt [zde](https://www.seznam.cz). <br><br>Poslouchejte nás na dalších platformách a sledujte naše novinky na sociílních sítích!"
+  
+  product_item:
+  - title : "Jméno Přijmení"
+    image : "images/kapela/clenove_1.jpg"
+    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen dvě nebo tři věty a neměla by přesáhnout tuto délku. Omezení je především kvůli správnému zobrazení na mobilních zařízeních."
+    project_url : "#"
+    
+  - title : "Jméno Přijmení"
+    image : "images/kapela/clenove_2.jpg"
+    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen dvě nebo tři věty a neměla by přesáhnout tuto délku. Omezení je především kvůli správnému zobrazení na mobilních zařízeních."
+    project_url : "#"
+    
+  - title : "Jméno Přijmení"
+    image : "images/kapela/clenove_3.jpg"
+    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen dvě nebo tři věty a neměla by přesáhnout tuto délku. Omezení je především kvůli správnému zobrazení na mobilních zařízeních."
+    project_url : "#"
+
+  - title : "Jméno Přijmení"
+    image : "images/kapela/clenove_4.jpg"
+    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen dvě nebo tři věty a neměla by přesáhnout tuto délku. Omezení je především kvůli správnému zobrazení na mobilních zařízeních."
+    project_url : "#"
+  
+  - title : "Jméno Přijmení"
+    image : "images/kapela/clenove_5.jpg"
+    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen dvě nebo tři věty a neměla by přesáhnout tuto délku. Omezení je především kvůli správnému zobrazení na mobilních zařízeních."
+    project_url : "#"
 
 
 #################### Hakelfest ####################
-product:
+hakelfest:
   enable : true
   section : "Hakelfest"
   title : "Hakelfest"
-  content : "Hakelfest je rockový festival odehrávající se pod záštitou firmy Hakel v areálu firmy na adrese Bratří Štefanů 980, Hradec Králové. <br>Předprodej vstupenek v síti TICKETMASTER.CZ nebo na místě."
-  product_item:
-  - title : "Miro Šmajda"
-    image : "images/hakelfest/hakelfest_mirosmajda.jpg"
-    content : "Jedna z nejúspěšnějších tváří československé Superstar Miro Šmajda je mimo jiné i několikanásobným vítězem v anketě Žebřík. Na Hakelfestu 2020 zahrál se svou kapelou Terrapie."
-    project_url : "#"
-    
-  - title : "RaiN"
-    image : "images/hakelfest/hakelfest_rain.jpg"
-    content : "Kapela RAiN působí na naší scéně už téměř 20 let, a za svou kariéru kapela odehrála stovky koncertů a festivalů nejen v ČR, ale i v Polsku či Německu. Zůčastnila se také Hakelfestu 2020."
-    project_url : "#"
-    
-  - title : "Hakel band"
-    image : "images/hakelfest/hakelfest_hakelband.jpg"
-    content : "Domácí kapela Hakel band znikla v roce 2016 v Hradci Králové, původně jen pro vystoupení na podnikových akcích, a nyní mají za dvě alba a vystoupili mimo jiné na Hakelfestu 2020."
-    project_url : "#"
+  content : "Hakelfest je rockový festival odehrávající se pod záštitou firmy [Hakel](https://www.hakel.cz) v areálu firmy na adrese Bratří Štefanů 980, Hradec Králové. <br>Předprodej vstupenek v síti [Ticketmasters](https://www.ticketmaster.cz/artist/hakel-fest-vstupenky/1023957) nebo na místě. <br><br>Posledního ročníku se zůčastnila mimo jiné i zvučná jména jako Miro Šmajda se svou kapelou Terrapie, liberečtní RaiN, královehradecká Vendetta či Milan Schelinger. <br><br>Fotogalerii z posledního ročníku Hakelfestu můžete nalézt [zde](https://www.seznam.cz)."
 
 
 ###################### Contact ####################
@@ -71,12 +106,12 @@ contact:
   section : "Kontakt"
   title : "Hakel band"
   image : "images/map-bg.jpg"
-  content : "Co má společného firma Hakel a Co má společného firma Hakel a kapela HakelBand? <br> <br> Náhoda, nebo dobře promyšlený plán? Ačkoliv přepěťová ochrana, kterou se společnost Hakel s.r.o. zaobírá, nemá s hudbou tolik společného, tak se šéf společnosti Hakel, Pavel Hudec, spolu se svými zaměstnanci rozhodli založit kapelu HakelBand. <br> <br> Přiměla je k tomu chuť zahrát svým kolegům na jejich firemních akcích. Nikdo ale netušil, že kapela vydá dvě desky a začnou koncertovat po boku slavnějších skupin. <br> Tato hradecká parta aktuálně dodělala novou desku i videoklipy, které jsou ke shlédnutí na Youtube. <br><br>V případě zájmu nás neváhejte kontaktovat na emailu: <br>hakelband@hakel.cz <br><br>Nezapomeňte sledovat naše sociální sítě!"
+  content : "V případě zájmu neváhejte kontaktovatovat manažera kapely: <br>Jméno Přijmení <br>Telefon: +420 123 456 789 <br>Email: hakelband@hakel.cz <br><br>Ke stažení:<br>Fotky kapely, logo, plakáty: [zde](https://www.seznam.cz)<br>Soubory pro organizátory, stage plan: [zde](https://www.seznam.cz)<br>Oficiální playlist pro OSA: [zde](https://www.seznam.cz)<br><br>Nezapomeňte poslouchat naší hudbu a sledovat sociální sítě!"
 
   
 ################### call to action #################
 call_to_action:
   enable : false
-  title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
-  button_label : "Apply Now"
-  button_link : "career"
+  title : ""
+  button_label : ""
+  button_link : ""

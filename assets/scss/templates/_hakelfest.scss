@@ -1,4 +1,4 @@
-.products{
+.hakelfest{
     padding: 100px 0;
     position: relative;
     @include tablet{
@@ -106,7 +106,7 @@
     }
 }
 
-.product-slider-wrapper{
+.hakelfest-slider-wrapper{
     padding-top: 175px;
     padding-bottom: 135px;
     position: relative;
@@ -121,7 +121,7 @@
     }
     z-index: 3;
     overflow: hidden;
-    .product-item{
+    .hakelfest-item{
         position: relative;
         max-width: 380px;
         margin: 0 15px;
@@ -197,8 +197,8 @@
         outline: none;
         i{
             color: $white;
-            opacity: .63;
-            font-size: 60px;
+            opacity: .33;
+            font-size: 20px;
         }
         &:hover{
             i{
@@ -207,9 +207,9 @@
         }
     }
     .slick-next{
-        right: 3%; bottom: 4.5%;
+        right: 4%; bottom: 1.5%;
     }
     .slick-prev{
-        right: 6.5%; bottom: 4.5%;
+        right: 6.5%; bottom: 1.5%;
     }
 }

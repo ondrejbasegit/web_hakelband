@@ -28,16 +28,28 @@ url = "videoklipy"
 weight = 3
 
 [[menu.main]]
-name = "Hakelfest"
+name = "Koncerty"
 pre = "#"
-url = "hakelfest"
+url = "koncerty"
 weight = 4
 
 [[menu.main]]
-name = "O nás / Kontakt"
+name = "O nás"
+pre = "#"
+url = "kapela"
+weight = 5
+
+[[menu.main]]
+name = "Hakelfest"
+pre = "#"
+url = "hakelfest"
+weight = 6
+
+[[menu.main]]
+name = "Kontakt / Ke stažení"
 pre = "#"
 url = "kontakt"
-weight = 5
+weight = 7
 
 
 #################### default parameters ################################
@@ -68,11 +80,26 @@ expire_days = 2
 
 ############################# social site ########################
 [[params.social]]
+title = "facebook"
+icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www.facebook.com/hakelband"
+
+[[params.social]]
 title = "youtube"
 icon = "fa-youtube" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://www.youtube.com/channel/UC3YkcU2OmbZJPgwS047DiEw"
 
 [[params.social]]
-title = "facebook"
-icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+title = "spotify"
+icon = "fa-spotify" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www.facebook.com/hakelband"
+
+[[params.social]]
+title = "applemusic"
+icon = "fa-apple" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www.facebook.com/hakelband"
+
+[[params.social]]
+title = "bandzone"
+icon = "fa-music" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://www.facebook.com/hakelband"
