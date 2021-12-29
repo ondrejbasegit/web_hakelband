@@ -10086,7 +10086,7 @@ body {
     .product-slider-wrapper .slick-prev:hover i, .product-slider-wrapper .slick-next:hover i {
       opacity: 1; }
   .product-slider-wrapper .slick-next {
-    right: 3%;
+    right: 1%;
     bottom: 4.5%; }
   .product-slider-wrapper .slick-prev {
     right: 6.5%;
