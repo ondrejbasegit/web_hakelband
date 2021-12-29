@@ -68,27 +68,27 @@ product:
   product_item:
   - title : "Jméno Přijmení"
     image : "images/kapela/clenove_1.jpg"
-    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen dvě nebo tři věty a neměla by přesáhnout tuto délku. Omezení je především kvůli správnému zobrazení na mobilních zařízeních."
+    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen jedna nebo dvě věty a neměla by přesáhnout tuto délku."
     project_url : "#"
     
   - title : "Jméno Přijmení"
     image : "images/kapela/clenove_2.jpg"
-    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen dvě nebo tři věty a neměla by přesáhnout tuto délku. Omezení je především kvůli správnému zobrazení na mobilních zařízeních."
+    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen jedna nebo dvě věty a neměla by přesáhnout tuto délku."
     project_url : "#"
     
   - title : "Jméno Přijmení"
     image : "images/kapela/clenove_3.jpg"
-    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen dvě nebo tři věty a neměla by přesáhnout tuto délku. Omezení je především kvůli správnému zobrazení na mobilních zařízeních."
+    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen jedna nebo dvě věty a neměla by přesáhnout tuto délku."
     project_url : "#"
 
   - title : "Jméno Přijmení"
     image : "images/kapela/clenove_4.jpg"
-    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen dvě nebo tři věty a neměla by přesáhnout tuto délku. Omezení je především kvůli správnému zobrazení na mobilních zařízeních."
+    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen jedna nebo dvě věty a neměla by přesáhnout tuto délku."
     project_url : "#"
   
   - title : "Jméno Přijmení"
     image : "images/kapela/clenove_5.jpg"
-    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen dvě nebo tři věty a neměla by přesáhnout tuto délku. Omezení je především kvůli správnému zobrazení na mobilních zařízeních."
+    content : "Popis člena kapely včetně zájmů a dalších podrobností. Délka popisku by měla být jen jedna nebo dvě věty a neměla by přesáhnout tuto délku."
     project_url : "#"
 
 
