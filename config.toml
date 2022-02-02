@@ -92,14 +92,14 @@ link = "https://www.youtube.com/channel/UC3YkcU2OmbZJPgwS047DiEw"
 [[params.social]]
 title = "spotify"
 icon = "fa-spotify" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://www.facebook.com/hakelband"
+link = "https://open.spotify.com/artist/0s72NgwVfdX4gvB957b0qQ?si=ve-eZomrQHq4hpCWvL0YZA"
 
 [[params.social]]
 title = "applemusic"
 icon = "fa-apple" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://www.facebook.com/hakelband"
+link = "https://music.apple.com/cz/artist/hakel-band/1597067901?l=cs"
 
 [[params.social]]
 title = "bandzone"
 icon = "fa-music" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://www.facebook.com/hakelband"
+link = "https://bandzone.cz/_116866"
