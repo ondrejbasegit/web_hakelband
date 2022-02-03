@@ -75,7 +75,7 @@ product:
   enable : true
   section : "Kapela"
   title : "Hakel Band"
-  content : "Co má společného firma [Hakel](https://www.hakel.com) a kapela Hakel Band? <br> <br> Náhoda, nebo dobře promyšlený plán? Ačkoliv přepěťová ochrana, kterou se společnost [Hakel s.r.o.](https://www.hakel.com) zaobírá, nemá s hudbou tolik společného, tak se šéf společnosti Hakel, Pavel Hudec, spolu se svými zaměstnanci rozhodli založit kapelu Hakel Band. <br> <br>Přiměla je k tomu chuť zahrát svým kolegům na jejich firemních akcích. Nikdo ale netušil, že kapela vydá dvě desky a začnou koncertovat po boku slavnějších skupin. Tato hradecká parta aktuálně dodělala novou desku i videoklipy, které jsou ke shlédnutí na [Youtube](https://www.youtube.com/channel/UC3YkcU2OmbZJPgwS047DiEw).<br> <br>Naší kompletní diskografii včetně textů a odkazů na videoklipy naleznete [zde](http://localhost:1313/docs/hakelband_texty_moucha_v_pivu.docx). Fotogalerii kapely i koncertů můžete nalézt [zde](https://www.seznam.cz). <br><br>Poslouchejte nás na dalších platformách a sledujte naše novinky na sociílních sítích!"
+  content : "Co má společného firma [Hakel](https://www.hakel.com) a kapela Hakel Band? <br> <br> Náhoda, nebo dobře promyšlený plán? Ačkoliv přepěťová ochrana, kterou se společnost [Hakel s.r.o.](https://www.hakel.com) zaobírá, nemá s hudbou tolik společného, tak se šéf společnosti Hakel, Pavel Hudec, spolu se svými zaměstnanci rozhodli založit kapelu Hakel Band. <br> <br>Přiměla je k tomu chuť zahrát svým kolegům na jejich firemních akcích. Nikdo ale netušil, že kapela vydá dvě desky a začnou koncertovat po boku slavnějších skupin. Tato hradecká parta aktuálně dodělala novou desku i videoklipy, které jsou ke shlédnutí na [Youtube](https://www.youtube.com/channel/UC3YkcU2OmbZJPgwS047DiEw).<br> <br>Naší kompletní diskografii včetně textů a odkazů na videoklipy naleznete [zde](https://heuristic-elion-e7aa0b.netlify.app/docs/hakelband_texty_moucha_v_pivu.docx). Fotogalerii kapely i koncertů můžete nalézt [zde](https://www.seznam.cz). <br><br>Poslouchejte nás na dalších platformách a sledujte naše novinky na sociílních sítích!"
   
   product_item:
   - title : "Pavel Hudec"
@@ -118,7 +118,7 @@ contact:
   section : "Kontakt"
   title : "Hakel band"
   image : "images/map-bg.jpg"
-  content : "V případě zájmu neváhejte kontaktovatovat manažera kapely: <br>Martina Jablanovská <br>Telefon: +420 773 022 238 <br>Email: jam-pr@email.cz <br><br>Objednávat naše CD a merch můžete na emailu: hakeklband@hakel.cz <br><br>Ke stažení:<br>Fotky kapely, logo, plakáty: [zde](https://www.seznam.cz)<br>Soubory pro organizátory, stage plan: [zde](https://www.seznam.cz)<br>Oficiální playlist pro OSA: [zde](http://localhost:1313/docs/hakelband_playlist.docx)<br><br>Nezapomeňte poslouchat naší hudbu a sledovat sociální sítě!"
+  content : "V případě zájmu neváhejte kontaktovatovat manažera kapely: <br>Martina Jablanovská <br>Telefon: +420 773 022 238 <br>Email: jam-pr@email.cz <br><br>Objednávat naše CD a merch můžete na emailu: hakeklband@hakel.cz <br><br>Ke stažení:<br>Fotky kapely, logo, plakáty: [zde](https://www.seznam.cz)<br>Soubory pro organizátory, stage plan: [zde](https://heuristic-elion-e7aa0b.netlify.app/docs/hakelband_technicke_pozadavky_vystoupeni.pdf)<br>Oficiální playlist pro OSA: [zde](https://heuristic-elion-e7aa0b.netlify.app/docs/hakelband_playlist.docx)<br><br>Nezapomeňte poslouchat naší hudbu a sledovat sociální sítě!"
 
   
 ################### call to action #################
