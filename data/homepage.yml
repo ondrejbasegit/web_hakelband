@@ -87,11 +87,6 @@ product:
     image : "images/kapela/clenove_2.jpg"
     content : "Kytara. Oblíbená hudba:  Rock, Crossover, Britpop. Oblíbená kapela: Kurtizány z 25. avenue. Nejlepší CD: Kurtizány z 25. avenue – Medium."
     project_url : "#"
-    
-  - title : "Petr Matoušek"
-    image : "images/kapela/clenove_3.jpg"
-    content : "Bicí. Oblíbená hudba: Pop Rock, Metal. Oblíbená kapela: Foo Fighters, Papa Roach, Metalica. Nejlepší CD: Ride The Lighting."
-    project_url : "#"
 
   - title : "Jarda Čech"
     image : "images/kapela/clenove_4.jpg"
