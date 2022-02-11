@@ -52,30 +52,30 @@ career:
     
   - name : "Votvírák na cestách… Čáslav"
     location : "5.3.2022, Čáslav, Grand"
-    form_link : "mailto:hakeklband@hakel.cz"
+    form_link : "https://www.ticketstream.cz/vstupenky/votvirak-na-cestach-2022"
 
   - name : "Votvírák na cestách… České Budějovice"
     location : "12.3.2022, České Budějovice, Fabrika"
-    form_link : "mailto:hakeklband@hakel.cz"
+    form_link : "https://www.ticketstream.cz/vstupenky/votvirak-na-cestach-2022"
 
   - name : "Votvírák na cestách… Ostrava"
     location : "26.3.2022, Ostrava, BBarack"
-    form_link : "mailto:hakeklband@hakel.cz"
+    form_link : "https://www.ticketstream.cz/vstupenky/votvirak-na-cestach-2022"
 
   - name : "Votvírák na cestách… Kolín"
     location : "2.4.2022, Kolín, MKS"
-    form_link : "mailto:hakeklband@hakel.cz"
+    form_link : "https://www.ticketstream.cz/vstupenky/votvirak-na-cestach-2022"
 
   - name : "Čarodky - Hakel Fest 2022"
     location : "30.4.2022, Hradec Králové, areál Biřička"
-    form_link : "mailto:hakeklband@hakel.cz"
+    form_link : "https://www.hakelband.cz/#hakelfest"
 
 #################### Kapela ####################
 product:
   enable : true
   section : "Kapela"
   title : "Hakel Band"
-  content : "Co má společného firma [Hakel](https://www.hakel.com) a kapela Hakel Band? <br> <br> Náhoda, nebo dobře promyšlený plán? Ačkoliv přepěťová ochrana, kterou se společnost [Hakel s.r.o.](https://www.hakel.com) zaobírá, nemá s hudbou tolik společného, tak se šéf společnosti Hakel, Pavel Hudec, spolu se svými zaměstnanci rozhodli založit kapelu Hakel Band. <br> <br>Přiměla je k tomu chuť zahrát svým kolegům na jejich firemních akcích. Nikdo ale netušil, že kapela vydá dvě desky a začnou koncertovat po boku slavnějších skupin. Tato hradecká parta aktuálně dodělala novou desku i videoklipy, které jsou ke shlédnutí na [Youtube](https://www.youtube.com/channel/UC3YkcU2OmbZJPgwS047DiEw).<br> <br>Naší kompletní diskografii včetně textů a odkazů na videoklipy naleznete [zde](https://www.hakelband.cz/docs/hakelband_texty_moucha_v_pivu.docx). Fotogalerii kapely i koncertů můžete nalézt [zde](https://www.facebook.com/hakelband/photos/?ref=page_internal). <br><br>Poslouchejte nás na dalších platformách a sledujte naše novinky na sociílních sítích!"
+  content : "Co má společného firma [Hakel](https://www.hakel.com) a kapela Hakel Band? <br> <br> Náhoda, nebo dobře promyšlený plán? Ačkoliv přepěťová ochrana, kterou se společnost [Hakel s.r.o.](https://www.hakel.com) zaobírá, nemá s hudbou tolik společného, tak se šéf společnosti Hakel, Pavel Hudec, spolu se svými zaměstnanci rozhodli založit kapelu Hakel Band. <br> <br>Přiměla je k tomu chuť zahrát svým kolegům na jejich firemních akcích. Nikdo ale netušil, že kapela vydá dvě desky a začnou koncertovat po boku slavnějších skupin. Tato hradecká parta aktuálně dodělala novou desku i videoklipy, které jsou ke shlédnutí na [Youtube](https://www.youtube.com/channel/UC3YkcU2OmbZJPgwS047DiEw).<br> <br>Naší kompletní diskografii včetně textů a odkazů na videoklipy naleznete v sekci [ke stažení](https://www.hakelband.cz/#kontakt). Fotogalerii kapely i koncertů můžete nalézt na našem [Instagramu](https://www.instagram.com/hakelband/). <br><br>Poslouchejte nás na dalších platformách a sledujte naše novinky na [sociílních sítích](https://www.hakelband.cz/#kontakt)!"
   
   product_item:
   - title : "Pavel Hudec"
@@ -104,7 +104,7 @@ hakelfest:
   enable : true
   section : "Hakelfest"
   title : "Hakelfest"
-  content : "Hakelfest je rockový festival odehrávající se pod záštitou firmy [Hakel](https://www.hakel.cz) v areálu firmy na adrese Bratří Štefanů 980, Hradec Králové.<br><br>Posledního ročníku se zůčastnila mimo jiné i zvučná jména jako Miro Šmajda se svou kapelou Terrapie, liberečtní RaiN, královehradecká Vendetta či Milan Schelinger. <br><br>Fotogalerii z posledního ročníku Hakelfestu můžete nalézt [zde](https://www.facebook.com/hakelband/photos/?ref=page_internal)."
+  content : "Hakelfest je rockový festival konající se pod záštitou firmy [Hakel](https://www.hakel.cz). Minulý ročník se odehrál v areálu firmy na adrese Bratří Štefanů 980 v Hradci Králové.<br><br>Zůčastnila mimo jiné i zvučná jména jako Miro Šmajda se svou kapelou Terrapie, liberečtní RaiN, královehradecká Vendetta či Milan Schelinger. <br><br>Fotogalerii z posledního ročníku Hakelfestu můžete nalézt [zde](https://www.instagram.com/p/CZy_CufKqH0/).<br><br>Další ročník Hakelfestu se bude konat 30.4.2022 v Hradci Králové v areálu Biřička a [vstupné je dobrovolné](). "
 
 
 ###################### Contact ####################
@@ -113,7 +113,7 @@ contact:
   section : "Kontakt"
   title : "Hakel band"
   image : "images/map-bg.jpg"
-  content : "V případě zájmu neváhejte kontaktovat manažera kapely: <br>Martina Jablanovská <br>Telefon: +420 773 022 238 <br>Email: jam-pr@email.cz <br><br>Objednávat naše CD a merch můžete na emailu: hakeklband@hakel.cz <br><br>Ke stažení:<br>Fotky kapely, logo, plakáty: [zde](https://www.facebook.com/hakelband/photos/?ref=page_internal)<br>Soubory pro organizátory, stage plan: [zde](https://www.hakelband.cz/docs/hakelband_technicke_pozadavky_vystoupeni.pdf)<br>Oficiální playlist pro OSA: [zde](https://www.hakelband.cz/docs/hakelband_playlist.docx)<br><br>Nezapomeňte poslouchat naší hudbu a sledovat sociální sítě!"
+  content : "V případě zájmu neváhejte kontaktovat manažera kapely: <br>Martina Jablanovská <br>Telefon: +420 773 022 238 <br>Email: jam-pr@email.cz <br><br>Objednávat naše CD a merch můžete na emailu: hakeklband@hakel.cz <br><br>Ke stažení:<br>Fotky kapely: [zde](https://www.facebook.com/hakelband/photos/?ref=page_internal)<br>Logo: [zde](https://www.hakelband.cz/docs/hakelband_logo.zip)<br>Plakáty: Připravujeme<br>Akordky a texty z desky Moucha v pivu: [zde](https://www.hakelband.cz/docs/hakelband_mouchavpivu_akordy_texty.zip)<br>Soubory pro organizátory, stage plan: [zde](https://www.hakelband.cz/docs/hakelband_technicke_pozadavky_vystoupeni.pdf)<br>Oficiální playlist pro OSA: [zde](https://www.hakelband.cz/docs/hakelband_playlist.docx)<br><br>Nezapomeňte poslouchat naší hudbu a sledovat sociální sítě!"
 
   
 ################### call to action #################
