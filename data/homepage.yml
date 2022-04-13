@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "HAKEL BAND"
-  content : "Nové album Moucha v pivu <br>[nyní v prodeji!](mailto:hakeklband@hakel.cz)"
+  content : "Nové album <br><b>Moucha v pivu <br>[nyní v prodeji!](mailto:hakeklband@hakel.cz)</b>"
   image : "images/hero-image/hakelband_uvod.jpg"
   button:
     enable : true
