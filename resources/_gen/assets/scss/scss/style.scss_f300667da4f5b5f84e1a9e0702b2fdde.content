@@ -9518,7 +9518,7 @@ body {
         width: 100%; }
       .hero-slider-wrapper .item .item-image::before {
         content: '';
-        background: #0a0f61;
+        background: #0a0e6100;
         position: absolute;
         top: 0;
         left: 0;
