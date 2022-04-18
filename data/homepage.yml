@@ -85,7 +85,12 @@ product:
     
   - title : "Michal Závodník"
     image : "images/kapela/clenove_2.jpg"
-    content : "Kytara. Oblíbená hudba:  Rock, Crossover, Britpop. Oblíbená kapela: Kurtizány z 25. avenue. Nejlepší CD: Kurtizány z 25. avenue – Medium."
+    content : "Kytara. Oblíbená hudba: Rock, Crossover, Britpop. Oblíbená kapela: Kurtizány z 25. avenue. Nejlepší CD: Kurtizány z 25. avenue – Medium."
+    project_url : "#"
+
+  - title : "Petr Matoušek"
+    image : "images/kapela/clenove_3.jpg"
+    content : "Bicí Pearl, Mapex. Oblíbená hudba: Poprock-rock-metal. Oblíbená kapela: FooFighters, Papa Roach, Metallica. Nejlepší CD: Ride to lighting."
     project_url : "#"
 
   - title : "Jarda Čech"
