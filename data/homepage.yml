@@ -15,13 +15,14 @@ vision:
   enable : true
   section : "Novinky"
   vision_item:
-  - title : "Střípky z vitráže"
-    image : "images/novinky/novinky_vitraze_klip.jpg"
-    content : "Právě jsme vydali nový videoklip k písni <br>[Střípky z vitráže](https://www.youtube.com/watch?v=PVjYeVOnTY0)"
-    
+
   - title : "Děkujeme za Votvírák"
     image : "images/novinky/novinky_votvirak.jpg"
     content : "Děkujeme vše fanouškům za podporu na Největším českém festivalu Votvírák."
+
+  - title : "Střípky z vitráže"
+    image : "images/novinky/novinky_vitraze_klip.jpg"
+    content : "Právě jsme vydali nový videoklip k písni <br>[Střípky z vitráže](https://www.youtube.com/watch?v=PVjYeVOnTY0)"
 
   - title : "Votvírák na cestách"
     image : "images/novinky/novinky_hakelfest.jpg"
