@@ -15,18 +15,17 @@ vision:
   enable : true
   section : "Novinky"
   vision_item:
+  - title : "Střípky z vitráže"
+    image : "images/novinky/novinky_vitraze_klip.jpg"
+    content : "Právě jsme vydali nový videoklip k písni <br>[Střípky z vitráže](https://www.youtube.com/watch?v=PVjYeVOnTY0)"
+    
+  - title : "Děkujeme za Votvírák"
+    image : "images/novinky/novinky_votvirak.jpg"
+    content : "Děkujeme vše fanouškům za podporu na Největším českém festivalu Votvírák."
+
   - title : "Votvírák na cestách"
     image : "images/novinky/novinky_hakelfest.jpg"
     content : "Začátkem roku 2022 se zúčastníme klubového turné Votvírák na cestách společně s kapelami Limetal, Seven, Tlustá Berta a Yamrtaal. Více info v sekci Koncerty nebo na našem [Facebooku](https://www.facebook.com/hakelband)."
-    
-  - title : "Křest nového CD"
-    image : "images/novinky/novinky_bici.jpg"
-    content : "Oficiální křest alba „Moucha v pivu“ proběhne dne 12.2. v AC klubu v Hradci Králové, supportovat nám bude kapela Unikátní Popcorn. Více info na našem [Facebooku](https://www.facebook.com/hakelband)."
-    
-  - title : "CD „Moucha v pivu“"
-    image : "images/novinky/novinky_mouchavpivu.jpg"
-    content : "Po dvou letech vychází první deska kapely Hakel Band „Moucha v pivu“. Na albu je 12 písní a byly k němu natočeny čtyři videoklipy. Album kupujte přes [email](mailto:hakelband@hakel.cz) nebo přímo na koncertech."
-
 
 #################### Videoklipy #####################
 mission:
@@ -46,29 +45,17 @@ career:
   enable : true
   title : "Aktuální koncerty"
   job_item:
-  - name : "Křest nového CD"
-    location : "12.2.2022, Hradec Králové, AC Klub"
-    form_link : "http://acklubhk.cz"
-    
-  - name : "Votvírák na cestách… Čáslav"
-    location : "5.3.2022, Čáslav, Grand"
-    form_link : "https://www.ticketstream.cz/vstupenky/votvirak-na-cestach-2022"
+  - name : "LODIVADLO STAGE"
+    location : "24.6.2022 od 20:30, Hradec Králové"
+    form_link : "https://www.festivalregiony.cz"
 
-  - name : "Votvírák na cestách… České Budějovice"
-    location : "12.3.2022, České Budějovice, Fabrika"
-    form_link : "https://www.ticketstream.cz/vstupenky/votvirak-na-cestach-2022"
+  - name : "Klenot Stage Na Terase"
+    location : "1.7.2022 od 18:00, Hradec Králové"
+    form_link : "https://www.festivalregiony.cz"
 
-  - name : "Votvírák na cestách… Ostrava"
-    location : "26.3.2022, Ostrava, BBarack"
-    form_link : "https://www.ticketstream.cz/vstupenky/votvirak-na-cestach-2022"
-
-  - name : "Votvírák na cestách… Kolín"
-    location : "2.4.2022, Kolín, MKS"
-    form_link : "https://www.ticketstream.cz/vstupenky/votvirak-na-cestach-2022"
-
-  - name : "Čarodky - Hakel Fest 2022"
-    location : "30.4.2022, Hradec Králové, areál Kemp - Stříbrný rybník"
-    form_link : "https://www.hakelband.cz/#hakelfest"
+  - name : "Dubina CUP 2022"
+    location : "23.7.2022 od 19:00, Bílá Třemešná"
+    form_link : "https://www.facebook.com/events/b%C3%ADlá-třemešná-544-72-b%C3%ADlá-třemešná-česká-republika/dubina-cup-2022/2290898031048032/"
 
 #################### Kapela ####################
 product:
