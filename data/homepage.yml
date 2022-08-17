@@ -16,6 +16,10 @@ vision:
   section : "Novinky"
   vision_item:
 
+ - title : "Hakelfest na Kavčáku"
+    image : "images/novinky/novinky_hakelfest.jpg"
+    content : "Hakelfest bude pokračovat 24.9. 2022 v Hradci Králové na Kavčím plácku. Více info připravujeme, sledujte náš web nebo [Facebook](https://www.facebook.com/hakelband)."
+
   - title : "Děkujeme za Votvírák"
     image : "images/novinky/novinky_votvirak.jpg"
     content : "Děkujeme všem fanouškům za podporu na Největším českém festivalu Votvírák. Video z festivalu naleznete [zde](https://www.youtube.com/watch?v=1HtQxGAwBrM)"
@@ -23,10 +27,6 @@ vision:
   - title : "Střípky z vitráže"
     image : "images/novinky/novinky_vitraze_klip.jpg"
     content : "Právě jsme vydali nový videoklip k písni <br>[Střípky z vitráže](https://www.youtube.com/watch?v=PVjYeVOnTY0)"
-
-  - title : "Votvírák na cestách"
-    image : "images/novinky/novinky_hakelfest.jpg"
-    content : "Začátkem roku 2022 se zúčastníme klubového turné Votvírák na cestách společně s kapelami Limetal, Seven, Tlustá Berta a Yamrtaal. Více info v sekci Koncerty nebo na našem [Facebooku](https://www.facebook.com/hakelband)."
 
 #################### Videoklipy #####################
 mission:
@@ -46,24 +46,16 @@ career:
   enable : true
   title : "Aktuální koncerty"
   job_item:
-  - name : "LODIVADLO STAGE"
-    location : "24.6.2022 od 20:30, Hradec Králové"
-    form_link : "https://www.festivalregiony.cz"
-
-  - name : "Klenot Stage Na Terase"
-    location : "1.7.2022 od 18:00, Hradec Králové"
-    form_link : "https://www.festivalregiony.cz"
-
-  - name : "Dubina CUP 2022"
-    location : "23.7.2022 od 19:00, Bílá Třemešná"
-    form_link : "https://www.facebook.com/events/b%C3%ADlá-třemešná-544-72-b%C3%ADlá-třemešná-česká-republika/dubina-cup-2022/2290898031048032/"
+  - name : "HAKELFEST NA KAVČÍM PLÁCKU"
+    location : "24.9.2022, Hradec Králové"
+    form_link : "https://www.hakelband.cz/#hakelfest"
 
 #################### Kapela ####################
 product:
   enable : true
   section : "Kapela"
   title : "Hakel Band"
-  content : "Co má společného firma [Hakel](https://www.hakel.com) a kapela Hakel Band? <br> <br> Náhoda, nebo dobře promyšlený plán? Ačkoliv přepěťová ochrana, kterou se společnost [HAKEL spol. s.r.o.](https://www.hakel.com) zaobírá, nemá s hudbou tolik společného, tak se šéf společnosti Hakel, Pavel Hudec, spolu se svými zaměstnanci rozhodli založit kapelu Hakel Band. <br> <br>Přiměla je k tomu chuť zahrát svým kolegům na jejich firemních akcích. Nikdo ale netušil, že kapela vydá dvě desky a začnou koncertovat po boku slavnějších skupin. Tato hradecká parta aktuálně dodělala novou desku i videoklipy, které jsou ke shlédnutí na [Youtube](https://www.youtube.com/channel/UC3YkcU2OmbZJPgwS047DiEw).<br> <br>Naší kompletní diskografii včetně textů a odkazů na videoklipy naleznete v sekci [ke stažení](https://www.hakelband.cz/#kontakt). Fotogalerii kapely i koncertů můžete nalézt na našem [Instagramu](https://www.instagram.com/hakelband/). <br><br>Poslouchejte nás na dalších platformách a sledujte naše novinky na [sociílních sítích](https://www.hakelband.cz/#kontakt)!"
+  content : "Co má společného firma [Hakel](https://www.hakel.com) a kapela Hakel Band? <br> <br> Náhoda, nebo dobře promyšlený plán? Ačkoliv přepěťová ochrana, kterou se společnost [HAKEL spol. s r.o.](https://www.hakel.com) zaobírá, nemá s hudbou tolik společného, tak se šéf společnosti Hakel, Pavel Hudec, spolu se svými zaměstnanci rozhodli založit kapelu Hakel Band. <br> <br>Přiměla je k tomu chuť zahrát svým kolegům na jejich firemních akcích. Nikdo ale netušil, že kapela vydá dvě desky a začnou koncertovat po boku slavnějších skupin. Tato hradecká parta aktuálně dodělala novou desku i videoklipy, které jsou ke shlédnutí na [Youtube](https://www.youtube.com/channel/UC3YkcU2OmbZJPgwS047DiEw).<br> <br>Naší kompletní diskografii včetně textů a odkazů na videoklipy naleznete v sekci [ke stažení](https://www.hakelband.cz/#kontakt). Fotogalerii kapely i koncertů můžete nalézt na našem [Instagramu](https://www.instagram.com/hakelband/). <br><br>Poslouchejte nás na dalších platformách a sledujte naše novinky na [sociílních sítích](https://www.hakelband.cz/#kontakt)!"
   
   product_item:
   - title : "Pavel Hudec"
@@ -97,7 +89,7 @@ hakelfest:
   enable : true
   section : "Hakelfest"
   title : "Hakelfest"
-  content : "Hakelfest je rockový festival konající se pod záštitou firmy [Hakel](https://www.hakel.cz). Minulý ročník se odehrál v areálu firmy na adrese Bratří Štefanů 980 v Hradci Králové.<br><br>Zůčastnila mimo jiné i zvučná jména jako Miro Šmajda se svou kapelou Terrapie, liberečtní RaiN, královehradecká Vendetta či Milan Schelinger. <br><br>Fotogalerii z posledního ročníku Hakelfestu můžete nalézt [zde](https://www.instagram.com/p/CZy_CufKqH0/).<br><br>Další ročník Hakelfestu se bude konat 30.4.2022 v Hradci Králové v areálu Kemp - Stříbrný rybník a [vstup je zdarma](). "
+  content : "Hakelfest je rockový festival konající se pod záštitou firmy [Hakel](https://www.hakel.cz). Minulý ročník se odehrál v areálu firmy na adrese Bratří Štefanů 980 v Hradci Králové.<br><br>Zůčastnila mimo jiné i zvučná jména jako Miro Šmajda se svou kapelou Terrapie, liberečtní RaiN, královehradecká Vendetta či Milan Schelinger. <br><br>Fotogalerii z posledního ročníku Hakelfestu můžete nalézt [zde](https://www.instagram.com/p/CZy_CufKqH0/).<br><br>Další ročník Hakelfestu se bude konat 24.9.2022 v Hradci Králové na Kavčím Plácku. "
 
 
 ###################### Contact ####################
@@ -106,7 +98,7 @@ contact:
   section : "Kontakt"
   title : "Hakel band"
   image : "images/map-bg.jpg"
-  content : "V případě zájmu neváhejte kontaktovat manažera kapely: <br>Šárka Hroudová <br>Telefon: +420 770 174 936 <br>Email: info@hakelband.cz <br><br>V rámci našeho merche nabízíme CD i trička.<br>Objednávat můžete emailu: hakelband@hakel.cz <br><br>Ke stažení:<br>Fotky kapely: [zde](https://www.facebook.com/hakelband/photos/?ref=page_internal)<br>Logo: [zde](https://www.hakelband.cz/docs/hakelband_logo.zip)<br>Plakáty: Připravujeme<br>Akordky a texty z desky Moucha v pivu: [zde](https://www.hakelband.cz/docs/hakelband_mouchavpivu_akordy_texty.zip)<br>Soubory pro organizátory, stage plan: [zde](https://www.hakelband.cz/docs/hakelband_technicke_pozadavky_vystoupeni.pdf)<br>Oficiální playlist pro OSA: [zde](https://www.hakelband.cz/docs/hakelband_playlist.docx)<br><br>Nezapomeňte poslouchat naší hudbu a sledovat sociální sítě!"
+  content : "V případě zájmu neváhejte kontaktovat manažera kapely: <br>Šárka Hroudová <br>Telefon: +420 770 174 936 <br>Email: info@hakelband.cz <br><br>V rámci našeho merche nabízíme CD i trička.<br>Objednávat můžete na emailu: hakelband@hakel.cz <br><br>Ke stažení:<br>Fotky kapely: [zde](https://www.facebook.com/hakelband/photos/?ref=page_internal)<br>Logo: [zde](https://www.hakelband.cz/docs/hakelband_logo.zip)<br>Plakáty: Připravujeme<br>Akordky a texty z desky Moucha v pivu: [zde](https://www.hakelband.cz/docs/hakelband_mouchavpivu_akordy_texty.zip)<br>Soubory pro organizátory, stage plan: [zde](https://www.hakelband.cz/docs/hakelband_technicke_pozadavky_vystoupeni.pdf)<br>Oficiální playlist pro OSA: [zde](https://www.hakelband.cz/docs/hakelband_playlist.docx)<br><br>Nezapomeňte poslouchat naší hudbu a sledovat sociální sítě!"
 
   
 ################### call to action #################
