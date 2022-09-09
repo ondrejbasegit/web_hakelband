@@ -46,13 +46,13 @@ career:
   enable : true
   title : "Aktuální koncerty"
   job_item:
-  - name : "HAKELFEST NA KAVČÍM PLÁCKU"
-    location : "Listopad 2022, Hradec Králové"
-    form_link : "https://www.hakelband.cz/#hakelfest"
-
   - name : "DEN S MYSLIVCI"
     location : "15.10.2022, Stříbrný rybník v Hradci Králové"
     form_link : "https://www.mestske-lesy.cz/prace-s-verejnosti/den-s-myslivci.html"
+
+  - name : "HAKELFEST NA KAVČÍM PLÁCKU"
+    location : "Listopad 2022, Hradec Králové"
+    form_link : "https://www.hakelband.cz/#hakelfest"
 
 #################### Kapela ####################
 product:
