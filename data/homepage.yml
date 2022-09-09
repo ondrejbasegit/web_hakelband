@@ -18,7 +18,7 @@ vision:
 
   - title : "Hakelfest na Kavčáku"
     image : "images/novinky/novinky_hakelfest.jpg"
-    content : "Hakelfest bude pokračovat 24.9. 2022 v Hradci Králové na Kavčím plácku. Více info připravujeme, sledujte náš web nebo [Facebook](https://www.facebook.com/hakelband)"
+    content : "Hakelfest posouváme na měsíc listopad. Více info připravujeme, sledujte náš web nebo [Facebook](https://www.facebook.com/hakelband)"
 
   - title : "Děkujeme za Votvírák"
     image : "images/novinky/novinky_votvirak.jpg"
@@ -47,8 +47,12 @@ career:
   title : "Aktuální koncerty"
   job_item:
   - name : "HAKELFEST NA KAVČÍM PLÁCKU"
-    location : "24.9.2022, Hradec Králové"
+    location : "Listopad 2022, Hradec Králové"
     form_link : "https://www.hakelband.cz/#hakelfest"
+
+  - name : "DEN S MYSLIVCI"
+    location : "15.10.2022, Stříbrný rybník v Hradci Králové"
+    form_link : "https://www.mestske-lesy.cz/prace-s-verejnosti/den-s-myslivci.html"
 
 #################### Kapela ####################
 product:
