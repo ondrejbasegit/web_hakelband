@@ -50,8 +50,8 @@ career:
     location : "15.10.2022, Stříbrný rybník v Hradci Králové"
     form_link : "https://www.mestske-lesy.cz/prace-s-verejnosti/den-s-myslivci.html"
 
-  - name : "HAKELFEST NA KAVČÍM PLÁCKU"
-    location : "Listopad 2022, Hradec Králové"
+  - name : "HAKELFEST NA STŘELNICI"
+    location : "26.11.2022, Hradec Králové, Střelnice"
     form_link : "https://www.hakelband.cz/#hakelfest"
 
 #################### Kapela ####################
@@ -93,7 +93,7 @@ hakelfest:
   enable : true
   section : "Hakelfest"
   title : "Hakelfest"
-  content : "Hakelfest je rockový festival konající se pod záštitou firmy [Hakel](https://www.hakel.cz). Minulý ročník se odehrál v areálu firmy na adrese Bratří Štefanů 980 v Hradci Králové.<br><br>Zůčastnila mimo jiné i zvučná jména jako Miro Šmajda se svou kapelou Terrapie, liberečtní RaiN, královehradecká Vendetta či Milan Schelinger. <br><br>Fotogalerii z posledního ročníku Hakelfestu můžete nalézt [zde](https://www.instagram.com/p/CZy_CufKqH0/).<br><br>Další ročník Hakelfestu se bude konat 24.9.2022 v Hradci Králové na Kavčím Plácku. "
+  content : "Hakelfest je rockový festival konající se pod záštitou firmy [Hakel](https://www.hakel.cz). Minulý ročník se odehrál v areálu firmy na adrese Bratří Štefanů 980 v Hradci Králové.<br><br>Zůčastnila mimo jiné i zvučná jména jako Miro Šmajda se svou kapelou Terrapie, liberečtní RaiN, královehradecká Vendetta či Milan Schelinger. <br><br>Fotogalerii z posledního ročníku Hakelfestu můžete nalézt [zde](https://www.instagram.com/p/CZy_CufKqH0/).<br><br>Další ročník Hakelfestu se bude konat 26.11.2022 v Hradci Králové na Střelnici. "
 
 
 ###################### Contact ####################
