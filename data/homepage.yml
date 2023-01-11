@@ -18,11 +18,11 @@ vision:
 
   - title : "KLUBOOFKA FEST"
     image : "images/novinky/novinky_bici.jpg"
-    content : "Kapela zahraje v rámci KLUBOOFKA FESTu online na [kluboofkatv.cz](https://www.kluboofkatv.cz), a to 11.2.2023 od 18:00."
+    content : "Kapela zahraje v rámci KLUBOOFKA FESTu online na [kluboofkatv.cz](https://www.kluboofkatv.cz), a to 11. 2. 2023 od 18:00."
 
   - title : "Vánoční rockové nadělení"
     image : "images/novinky/novinky_vanoceac.jpg"
-    content : "Tradiční vánoční koncert v AC klubu proběhne letos 23.12.2022 v Hradci Králové. Krom Hakel Bandu zahrají i hradečtí Mr. Moss a další hosté, pro více informací sledujte náš [Facebook](https://www.facebook.com/hakelband)"
+    content : "Tradiční vánoční koncert v AC klubu proběhne letos 23. 12. 2022 v Hradci Králové. Krom Hakel Bandu zahrají i hradečtí Mr. Moss a další hosté, pro více informací sledujte náš [Facebook](https://www.facebook.com/hakelband)"
 
   - title : "Střípky z vitráže"
     image : "images/novinky/novinky_vitraze_klip.jpg"
@@ -47,7 +47,7 @@ career:
   title : "Aktuální koncerty"
   job_item:
   - name : "KLUBOOFKA FEST"
-    location : "11.2.2023, od 18 hodin, kluboofkatv.cz (online událost)"
+    location : "11. 2. 2023, od 18 hodin, kluboofkatv.cz (online událost)"
     form_link : "https://kluboofkatv.cz/"
 
 
