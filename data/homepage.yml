@@ -16,13 +16,13 @@ vision:
   section : "Novinky"
   vision_item:
 
+  - title : "KLUBOOFKA FEST"
+    image : "images/novinky/novinky_bici.jpg"
+    content : "Kapela zahraje v rámci KLUBOOFKA FESTu online na [kluboofkatv.cz](https://www.kluboofkatv.cz), a to 11.2.2023 od 18:00."
+
   - title : "Vánoční rockové nadělení"
     image : "images/novinky/novinky_vanoceac.jpg"
     content : "Tradiční vánoční koncert v AC klubu proběhne letos 23.12.2022 v Hradci Králové. Krom Hakel Bandu zahrají i hradečtí Mr. Moss a další hosté, pro více informací sledujte náš [Facebook](https://www.facebook.com/hakelband)"
-
-  - title : "Letošní Hakelfest zrušen!"
-    image : "images/novinky/novinky_hakelfest.jpg"
-    content : "Letošní Hakelfest bohužel zrušen z důvodu nemoci. Pro více info sledujte náš [web](https://www.hakelband.cz/#hakelfest) nebo [Facebook](https://www.facebook.com/hakelband)"
 
   - title : "Střípky z vitráže"
     image : "images/novinky/novinky_vitraze_klip.jpg"
@@ -33,11 +33,11 @@ mission:
   enable : true
   title : "Videoklipy"
   section : "Videoklipy"
-  content : "Videoklip k nové desce Moucha v pivu je venku!"
-  video_thumb_1: "images/video-thumb-1.jpg"
-  video_id_1: "pPo2wYIi_EE"
-  video_thumb_2: "images/video-thumb-2.jpg"
-  video_id_2: "Yfeef35ZK3s"
+  content : "Videoklip k písni Pihovatá je venku!"
+  video_thumb_1: "images/video-thumb-3.jpg"
+  video_id_1: "_zaxP_LQBXo"
+  video_thumb_2: "images/video-thumb-1.jpg"
+  video_id_2: "pPo2wYIi_EE"
   footer : "Další videoklipy <br>sledujte [zde!](https://www.youtube.com/channel/UC3YkcU2OmbZJPgwS047DiEw)"
   footer_desc : ""
 
@@ -46,17 +46,10 @@ career:
   enable : true
   title : "Aktuální koncerty"
   job_item:
-  - name : "DEN S MYSLIVCI"
-    location : "15.10.2022, Stříbrný rybník v Hradci Králové"
-    form_link : "https://www.mestske-lesy.cz/prace-s-verejnosti/den-s-myslivci.html"
+  - name : "KLUBOOFKA FEST"
+    location : "11.2.2023, od 18 hodin, kluboofkatv.cz (online událost)"
+    form_link : "https://kluboofkatv.cz/"
 
-  - name : "HAKELFEST NA STŘELNICI - ZRUŠENO!"
-    location : "26.11.2022, Hradec Králové, Kulturní dům Střelnice"
-    form_link : "https://www.hakelband.cz/#hakelfest"
-
-  - name : "Tradiční vánoční koncert v AC Klubu"
-    location : "23.12.2022, Hradec Králové, AC Klub"
-    form_link : "https://www.facebook.com/events/546293080329913/?ref=newsfeed"
 
 #################### Kapela ####################
 product:
@@ -97,7 +90,7 @@ hakelfest:
   enable : true
   section : "Hakelfest"
   title : "Hakelfest"
-  content : "Hakelfest je rockový festival konající se pod záštitou firmy [Hakel](https://www.hakel.cz)<br><br>Letošní ročník s názvem HAKELFEST aneb zažijte první adventní víkend, kde zahraje <b>JAROSLAV UHLÍŘ, VYHOUKANÁ SOWA, HAKEL BAND, MR. MOSS, OVÁLNÁ, M’ALONE</b> se bude konat <b>26. 11. 2022</b> v kulturním domě Střelnice v Hradci Králové<br><br>Čas akce je <b>od 17:00 hodin</b> (sobota) <b>do 02:00 hodin</b> (neděle)<br><br>Předprodej v síti [Ticketstream](https://www.ticketstream.cz/akce/hakelfest-165703), v informačním centru v Hradci Králové nebo v Restaurant Grill Duran<br><br>Ceny vstupenek v předprodeji:<br>od 11. 10. do 23. 10. za <b>299 Kč</b><br>od 24.10. do 6. 11. za <b>360 Kč</b><br>od 7. 11. do 20. 11. za <b>420 Kč</b><br>od 21. 11. do 26.11. za <b>499 Kč</b><br>Na místě za <b>550 Kč</b>"
+  content : "Hakelfest je rockový festival konající se pod záštitou firmy [Hakel](https://www.hakel.cz)<br>Sledujte nás a dozvíte se více o připravovaném Hakelfestu 2023."
 
 
 ###################### Contact ###################
