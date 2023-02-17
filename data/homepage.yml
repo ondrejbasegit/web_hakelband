@@ -70,6 +70,10 @@ career:
     location : "5.7.2023, Bílá Třemešná"
     form_link : ""
 
+  - name : "Slavnosti Hořických trubiček 2023"
+    location : "2.9.2023 od 16:30, náměstí Hořice"
+    form_link : "https://infocentrum.horice.org/o-meste/tradice/tradicni-akce/slavnosti-horickych-trubicek-zari"
+
 #################### Kapela ####################
 product:
   enable : true
