@@ -46,29 +46,29 @@ career:
   enable : true
   title : "Aktuální koncerty"
   job_item:
-  - name : "KLUBOOFKA FEST"
-    location : "11.2.2023, Music club Black Pes, Praha - Klánovice"
-    form_link : "https://www.facebook.com/events/915778053168276?ref=newsfeed"
-
   - name : "Hradecké Čarodejnice na Stříbrňáku"
     location : "30.4.2023, Stříbrný rybník, Hradec Králové"
     form_link : ""
 
   - name : "Po Valašsku na Skútru"
-    location : "3.6.2023, Camp Rožnov, Rožnov pod Radhoštěm"
+    location : "3.6.2023 od 21:30, Camp Rožnov, Rožnov pod Radhoštěm"
     form_link : "https://www.facebook.com/events/409441677749656"
 
   - name : "Eltech"
-    location : "6.6.2023, Horní Smokovec"
-    form_link : ""
+    location : "6.6.2023, Horný Smokovec"
+    form_link : "https://elektromanagement.sk/eltech-sk/"
 
   - name : "Divadelní festival"
     location : "30.6.2023, Hradec Králové"
     form_link : "https://www.festivalregiony.cz/"
 
   - name : "Dubina Cup"
-    location : "5.7.2023, Bílá Třemešná"
+    location : "15.7.2023, Bílá Třemešná"
     form_link : ""
+
+  - name : "Mirotické setkání loutek a hudby"
+    location : "4.8.2023 od 22:30, Mirotice"
+    form_link : "https://mirotickesetkani.cz/program.html"
 
   - name : "Slavnosti Hořických trubiček 2023"
     location : "2.9.2023 od 16:30, náměstí Hořice"
