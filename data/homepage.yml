@@ -47,19 +47,23 @@ career:
   title : "Aktuální koncerty"
   job_item:
   - name : "Hradecké Čarodejnice na Stříbrňáku"
-    location : "30.04.2023, Stříbrný rybník, Hradec Králové"
+    location : "30.04.2023 od 19:30, Stříbrný rybník, Hradec Králové"
     form_link : "https://www.facebook.com/Hradeckecarodejnicenastribrnemrybnice/about"
+
+  - name : "Jam Rock"
+    location : "02.06.2023,Letohrad"
+    form_link : "https://jamrock.cz/"
 
   - name : "Po Valašsku na Skútru"
     location : "03.06.2023 od 21:30, Camp Rožnov, Rožnov pod Radhoštěm"
     form_link : "https://www.facebook.com/events/409441677749656"
 
   - name : "Eltech"
-    location : "06.06.2023, Horný Smokovec"
+    location : "06.06.2023 od 20:30, Horný Smokovec"
     form_link : "https://elektromanagement.sk/eltech-sk/"
 
   - name : "Divadelní festival"
-    location : "30.06.2023, Hradec Králové"
+    location : "30.06.2023 od 20:00, Hradec Králové"
     form_link : "https://www.festivalregiony.cz/"
 
   - name : "Dubina Cup"
@@ -117,7 +121,7 @@ hakelfest:
   enable : true
   section : "Hakelfest"
   title : "Hakelfest"
-  content : "Hakelfest je rockový festival konající se pod záštitou firmy [Hakel](https://www.hakel.cz)<br>Sledujte nás a dozvíte se více o připravovaném Hakelfestu 2023."
+  content : "Hakelfest je rockový festival konající se pod záštitou firmy [Hakel](https://www.hakel.com)<br>Sledujte nás a dozvíte se více o připravovaném Hakelfestu 2023."
 
 
 ###################### Contact ###################
