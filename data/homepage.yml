@@ -16,17 +16,17 @@ vision:
   section : "Novinky"
   vision_item:
 
-  - title : "Hradecké Čarodejnice na Stříbrňáku"
-    image : "images/novinky/novinky_bici.jpg"
+  - title : "Hradecké Čarodějnice na Stříbrňáku"
+    image : "images/novinky/novinky_carodejnice.jpg"
     content : "Kapela zahraje v rámci Hradeckých Čarodejnic na Stříbrňáku, a to 30.04.2023 v Hradci Králové"
 
-  - title : "Po Valašsku na Skútru"
+  - title : "JamRock"
     image : "images/novinky/novinky_hakelfest.jpg"
-    content : "Kapela zahraje v rámci akce Po Valašsku na Skútru, a to 03.06.2023 v Rožnově pod Radhoštěm"
+    content : "Na tomto vyhlášeném festivalu v Letohradu kapela zahraje 02.06.2023"
 
-  - title : "Eltech"
-    image : "images/novinky/novinky_mouchavpivu.jpg"
-    content : "Kapela zahraje v rámci akce Eltech, a to 06.06.2023 v Horný Smokovec"
+  - title : "Po Valašsku na skútru"
+    image : "images/novinky/novinky_valassko.jpg"
+    content : "Na 12. ročníku mezinárodního srazu skútrů zahrajeme 03.06.2023"
 
 #################### Videoklipy #####################
 mission:
@@ -50,8 +50,8 @@ career:
     location : "30.04.2023 od 19:30, Stříbrný rybník, Hradec Králové"
     form_link : "https://www.facebook.com/Hradeckecarodejnicenastribrnemrybnice/about"
 
-  - name : "Jam Rock"
-    location : "02.06.2023 od 16:30, Letohrad"
+  - name : "JamRock"
+    location : "02.06.2023 od 16:40, Letohrad"
     form_link : "https://jamrock.cz/"
 
   - name : "Po Valašsku na Skútru"
@@ -74,6 +74,10 @@ career:
     location : "04.08.2023 od 22:30, Mirotice"
     form_link : "https://mirotickesetkani.cz/program.html"
 
+  - name : "Pouťový jarmark Libčany"
+    location : "05.08.2023 od 18:00, fotbalové hřiště v Libčanech u HK"
+    form_link : ""
+
   - name : "Jízdárna fest"
     location : "19.08.2023 od 14:50, Zámecký park v Rychnově nad Kněžnou"
     form_link : "https://www.jizdarnafest.cz/"
@@ -87,7 +91,7 @@ product:
   enable : true
   section : "Kapela"
   title : "Hakel Band"
-  content : "Co má společného firma [Hakel](https://www.hakel.com) a kapela Hakel Band? <br> <br> Náhoda, nebo dobře promyšlený plán? Ačkoliv přepěťová ochrana, kterou se společnost [HAKEL spol. s r.o.](https://www.hakel.com) zaobírá, nemá s hudbou tolik společného, tak se šéf společnosti Hakel, Pavel Hudec, spolu se svými zaměstnanci rozhodli založit kapelu Hakel Band. <br> <br>Přiměla je k tomu chuť zahrát svým kolegům na jejich firemních akcích. Nikdo ale netušil, že kapela vydá dvě desky a začnou koncertovat po boku slavnějších skupin. Tato hradecká parta aktuálně dodělala novou desku i videoklipy, které jsou ke shlédnutí na [Youtube](https://www.youtube.com/channel/UC3YkcU2OmbZJPgwS047DiEw).<br> <br>Naší kompletní diskografii včetně textů a odkazů na videoklipy naleznete v sekci [ke stažení](https://www.hakelband.cz/#kontakt). Fotogalerii kapely i koncertů můžete nalézt na našem [Instagramu](https://www.instagram.com/hakelband/). <br><br>Poslouchejte nás na dalších platformách a sledujte naše novinky na [sociílních sítích](https://www.hakelband.cz/#kontakt)!"
+  content : "Co má společného firma [Hakel](https://www.hakel.com) a kapela Hakel Band? <br> <br> Náhoda, nebo dobře promyšlený plán? Ačkoliv přepěťová ochrana, kterou se společnost [HAKEL spol. s r.o.](https://www.hakel.com) zaobírá, nemá s hudbou tolik společného, tak se šéf společnosti Hakel, Pavel Hudec, spolu se svými zaměstnanci rozhodli založit kapelu Hakel Band. <br> <br>Přiměla je k tomu chuť zahrát svým kolegům na jejich firemních akcích. Nikdo ale netušil, že kapela vydá dvě desky a začnou koncertovat po boku slavnějších skupin. Tato hradecká parta aktuálně dodělala novou desku i videoklipy, které jsou ke shlédnutí na [Youtube](https://www.youtube.com/channel/UC3YkcU2OmbZJPgwS047DiEw).<br> <br>Naší kompletní diskografii včetně textů a odkazů na videoklipy naleznete v sekci [ke stažení](https://www.hakelband.cz/#kontakt). Fotogalerii kapely i koncertů můžete nalézt na našem [Instagramu](https://www.instagram.com/hakelband/). <br><br>Poslouchejte nás na dalších platformách a sledujte naše novinky na [sociílních sítích](https://www.facebook.com/hakelband)!"
   
   product_item:
   - title : "Pavel Hudec"
