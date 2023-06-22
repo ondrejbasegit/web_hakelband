@@ -17,15 +17,15 @@ vision:
   vision_item:
 
   - title : "Hradecké Čarodějnice na Stříbrňáku"
-    image : "images/novinky/novinky_carodejnice.jpg"
+    image : "images/empty.png"
     content : "Kapela zahraje v rámci Hradeckých Čarodejnic na Stříbrňáku, a to 30.04.2023 v Hradci Králové"
 
   - title : "JamRock"
-    image : "images/novinky/novinky_jamrock.jpg"
+    image : "images/empty.png"
     content : "Na tomto vyhlášeném festivalu v Letohradu kapela zahraje 02.06.2023"
 
   - title : "Po Valašsku na skútru"
-    image : "images/novinky/novinky_valassko.png"
+    image : "images/empty.png"
     content : "Na 12. ročníku mezinárodního srazu skútrů zahrajeme 03.06.2023"
 
 #################### Videoklipy #####################
@@ -46,22 +46,6 @@ career:
   enable : true
   title : "Aktuální koncerty"
   job_item:
-  - name : "Hradecké Čarodejnice na Stříbrňáku"
-    location : "30.04.2023 od 19:30, Stříbrný rybník, Hradec Králové"
-    form_link : "https://www.facebook.com/Hradeckecarodejnicenastribrnemrybnice/about"
-
-  - name : "JamRock"
-    location : "02.06.2023 od 16:40, Letohrad"
-    form_link : "https://jamrock.cz/"
-
-  - name : "Po Valašsku na Skútru"
-    location : "03.06.2023 od 21:30, Camp Rožnov, Rožnov pod Radhoštěm"
-    form_link : "https://www.facebook.com/events/409441677749656"
-
-  - name : "Eltech"
-    location : "06.06.2023 od 20:30, Horný Smokovec"
-    form_link : "https://elektromanagement.sk/eltech-sk/"
-
   - name : "Divadelní festival"
     location : "30.06.2023 od 19:00, Hradec Králové"
     form_link : "https://www.festivalregiony.cz/"
