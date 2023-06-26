@@ -16,17 +16,17 @@ vision:
   section : "Novinky"
   vision_item:
 
-  - title : "Hradecké Čarodějnice na Stříbrňáku"
+  - title : "DIVADELNÍ FESTIVAL"
     image : "images/empty.png"
-    content : "Kapela zahraje v rámci Hradeckých Čarodejnic na Stříbrňáku, a to 30.04.2023 v Hradci Králové"
+    content : "KAPELA ZAHRAJE NA DIVADELNÍM FESTIVALU, NA KAVČÍM PLÁCKU 30.06.2023 OD 20:00 HODIN"
 
-  - title : "JamRock"
+  - title : "MIROTICKÉ SETKÁNÍ LOUTEK A HUDBY"
     image : "images/empty.png"
-    content : "Na tomto vyhlášeném festivalu v Letohradu kapela zahraje 02.06.2023"
+    content : "HRAJEME 4. 8. 2023 OD 22:30 HODIN"
 
-  - title : "Po Valašsku na skútru"
+  - title : "POUŤOVÝ JARMARK LIBČANY"
     image : "images/empty.png"
-    content : "Na 12. ročníku mezinárodního srazu skútrů zahrajeme 03.06.2023"
+    content : "FOTBALOVÉ HŘIŠTĚ LIBČANY 05.08.2023 OD 18:00 HODIN"
 
 #################### Videoklipy #####################
 mission:
@@ -47,8 +47,8 @@ career:
   title : "Aktuální koncerty"
   job_item:
   - name : "Divadelní festival"
-    location : "30.06.2023 od 19:00, Hradec Králové"
-    form_link : "https://www.festivalregiony.cz/"
+    location : "30.06.2023 od 20:00, Hradec Králové"
+    form_link : "https://www.festivalregiony.cz/program-dle-data.html?datum=2023-06-30"
 
   - name : "Mirotické setkání loutek a hudby"
     location : "04.08.2023 od 22:30, Mirotice"
