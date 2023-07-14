@@ -46,10 +46,6 @@ career:
   enable : true
   title : "Aktuální koncerty"
   job_item:
-  - name : "Divadelní festival"
-    location : "30.06.2023 od 20:00, Hradec Králové"
-    form_link : "https://www.festivalregiony.cz/program-dle-data.html?datum=2023-06-30"
-
   - name : "Mirotické setkání loutek a hudby"
     location : "04.08.2023 od 22:30, Mirotice"
     form_link : "https://mirotickesetkani.cz/program.html"
@@ -69,6 +65,14 @@ career:
   - name : "Slavnosti Hořických trubiček 2023"
     location : "02.09.2023 od 16:30, náměstí Hořice"
     form_link : "https://infocentrum.horice.org/o-meste/tradice/tradicni-akce/slavnosti-horickych-trubicek-zari"
+
+  - name : "MetanolFest 2023"
+    location : "14.10.2023 od 17:00, Country Club Lucie Hradec Králové"
+    form_link : "https://qrticket.cz/produkt/metanolfest-2/"
+
+  - name : "Rocková Kalná III. 2023"
+    location : "28.10.2023 od 19:00, Dolní Kalná (okres Trutnov)"
+    form_link : "https://qrticket.cz/produkt/rockova-kalna-lli/"
 
 #################### Kapela ####################
 product:
