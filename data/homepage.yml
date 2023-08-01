@@ -55,12 +55,16 @@ career:
     form_link : "https://kluboofkatv.cz/slamak-rock-fest-2023/"
 
   - name : "Pouťový jarmark Libčany"
-    location : "05.08.2023 od 18:00, fotbalové hřiště v Libčanech u HK"
+    location : "05.08.2023 od 20:00, fotbalové hřiště v Libčanech u HK"
     form_link : ""
 
   - name : "Jízdárna fest"
     location : "19.08.2023 od 14:50, Zámecký park v Rychnově nad Kněžnou"
     form_link : "https://www.jizdarnafest.cz/"
+  
+  - name : "VRŠCE FEST"
+    location : "02.09.2023 od 14:00, VRŠCE"
+    form_link : "https://kluboofkatv.cz/vrsce-fest-2023/"
 
   - name : "Slavnosti Hořických trubiček 2023"
     location : "02.09.2023 od 16:30, náměstí Hořice"
@@ -73,6 +77,10 @@ career:
   - name : "Rocková Kalná III. 2023"
     location : "28.10.2023 od 19:00, Dolní Kalná (okres Trutnov)"
     form_link : "https://qrticket.cz/produkt/rockova-kalna-lli/"
+
+  - name : "Městské slavnosti v Pardubicích"
+    location : "14.12.2023 od 16:30, Pernštýnské náměstí Pardubice"
+    form_link : ""
 
 #################### Kapela ####################
 product:
