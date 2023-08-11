@@ -16,17 +16,17 @@ vision:
   section : "Novinky"
   vision_item:
 
-  - title : "DIVADELNÍ FESTIVAL"
+  - title : "Jízdárna fest"
     image : "images/empty.png"
-    content : "KAPELA ZAHRAJE NA DIVADELNÍM FESTIVALU, NA KAVČÍM PLÁCKU 30.06.2023 OD 20:00 HODIN"
+    content : "Kapela zahraje v zámeckém parku v Rychnově nad Kněžnou 19.08.2023 od 14:50 hodin"
 
-  - title : "MIROTICKÉ SETKÁNÍ LOUTEK A HUDBY"
+  - title : "Vršce fest"
     image : "images/empty.png"
-    content : "HRAJEME 4. 8. 2023 OD 22:30 HODIN"
+    content : "Hrajeme ve Vršcích 02.09.2023 od 14:00 hodin"
 
-  - title : "POUŤOVÝ JARMARK LIBČANY"
+  - title : "Slavnosti Hořických trubiček 2023"
     image : "images/empty.png"
-    content : "FOTBALOVÉ HŘIŠTĚ LIBČANY 05.08.2023 OD 18:00 HODIN"
+    content : "Hrajeme na náměstí Jiřího z Poděbrad v Hořicích 02.09.2023 od 16:30 hodin"
 
 #################### Videoklipy #####################
 mission:
@@ -46,18 +46,6 @@ career:
   enable : true
   title : "Aktuální koncerty"
   job_item:
-  - name : "Mirotické setkání loutek a hudby"
-    location : "04.08.2023 od 22:30, Mirotice"
-    form_link : "https://mirotickesetkani.cz/program.html"
-
-  - name : "Slamák Rock Fest 2023"
-    location : "05.08.2023 od 16:00, Letní Parket Újezd u Přelouče"
-    form_link : "https://kluboofkatv.cz/slamak-rock-fest-2023/"
-
-  - name : "Pouťový jarmark Libčany"
-    location : "05.08.2023 od 20:00, fotbalové hřiště v Libčanech u HK"
-    form_link : ""
-
   - name : "Jízdárna fest"
     location : "19.08.2023 od 14:50, Zámecký park v Rychnově nad Kněžnou"
     form_link : "https://www.jizdarnafest.cz/"
