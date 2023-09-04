@@ -16,17 +16,17 @@ vision:
   section : "Novinky"
   vision_item:
 
-  - title : "Jízdárna fest"
+  - title : "MetanolFest 2023"
     image : "images/empty.png"
-    content : "Kapela zahraje v zámeckém parku v Rychnově nad Kněžnou 19.08.2023 od 14:50 hodin"
+    content : "Kapela zahraje v Country Clubu Lucie v Hradci  Králové 14.10.2023 od 17:00 hodin"
 
-  - title : "Vršce fest"
+  - title : "Rocková Kalná III. 2023"
     image : "images/empty.png"
-    content : "Hrajeme ve Vršcích 02.09.2023 od 14:00 hodin"
+    content : "Hrajeme v Dolní Kalné (okres Trutnov) 8.10.2023 od 19:00 hodin"
 
-  - title : "Slavnosti Hořických trubiček 2023"
+  - title : "Městské slavnosti v Pardubicích"
     image : "images/empty.png"
-    content : "Hrajeme na náměstí Jiřího z Poděbrad v Hořicích 02.09.2023 od 16:30 hodin"
+    content : "Hrajeme na Pernštýnském náměstí v Pardubicích 14.12.2023 od 16:30 hodin"
 
 #################### Videoklipy #####################
 mission:
@@ -46,21 +46,6 @@ career:
   enable : true
   title : "Aktuální koncerty"
   job_item:
-  - name : "Jízdárna fest"
-    location : "19.08.2023 od 14:50, Zámecký park v Rychnově nad Kněžnou"
-    form_link : "https://www.jizdarnafest.cz/"
-  
-  - name : "VRŠCE FEST"
-    location : "02.09.2023 od 14:00, VRŠCE"
-    form_link : "https://kluboofkatv.cz/vrsce-fest-2023/"
-
-  - name : "Slavnosti Hořických trubiček 2023"
-    location : "02.09.2023 od 16:30, náměstí Hořice"
-    form_link : "https://infocentrum.horice.org/o-meste/tradice/tradicni-akce/slavnosti-horickych-trubicek-zari"
-
-  - name : "Hradec sobě pod babykou - festival na konci prázdnin"
-    location : "02.09.2023 od 21:30, Lodivadlo na Kavčím plácku v Hradci Králové"
-    form_link : ""
 
   - name : "MetanolFest 2023"
     location : "14.10.2023 od 17:00, Country Club Lucie Hradec Králové"
@@ -122,7 +107,7 @@ contact:
   section : "Kontakt"
   title : "Hakel band"
   image : "images/map-bg.jpg"
-  content : "V případě zájmu neváhejte kontaktovat manažera kapely: <br>Pavel Hudec <br>Telefon: +420 602 375 475 <br>Email: info@hakelband.cz <br><br>V rámci našeho merche nabízíme CD i trička.<br>Objednávat můžete na emailu: hakelband@hakel.cz <br><br>Ke stažení:<br>Fotky kapely: [zde](https://www.facebook.com/hakelband/photos/?ref=page_internal)<br>Logo: [zde](https://www.hakelband.cz/docs/hakelband_logo.zip)<br>Plakáty: Připravujeme<br>Akordky a texty z desky Moucha v pivu: [zde](https://www.hakelband.cz/docs/hakelband_mouchavpivu_akordy_texty.zip)<br>Soubory pro organizátory, stage plan: [zde](https://www.hakelband.cz/docs/hakelband_technicke_pozadavky_vystoupeni.pdf)<br>Oficiální playlist pro OSA: [zde](https://www.hakelband.cz/docs/hakelband_playlist.docx)<br><br>Nezapomeňte poslouchat naší hudbu a sledovat sociální sítě!"
+  content : "V případě zájmu neváhejte kontaktovat manažera kapely: <br>Šárka Hroudová <br>Telefon: +420 770 174 936 <br>Email: info@hakelband.cz <br><br>V rámci našeho merche nabízíme CD i trička.<br>Objednávat můžete na emailu: hakelband@hakel.cz <br><br>Ke stažení:<br>Fotky kapely: [zde](https://www.facebook.com/hakelband/photos/?ref=page_internal)<br>Logo: [zde](https://www.hakelband.cz/docs/hakelband_logo.zip)<br>Plakáty: Připravujeme<br>Akordky a texty z desky Moucha v pivu: [zde](https://www.hakelband.cz/docs/hakelband_mouchavpivu_akordy_texty.zip)<br>Soubory pro organizátory, stage plan: [zde](https://www.hakelband.cz/docs/hakelband_technicke_pozadavky_vystoupeni.pdf)<br>Oficiální playlist pro OSA: [zde](https://www.hakelband.cz/docs/hakelband_playlist.docx)<br><br>Nezapomeňte poslouchat naší hudbu a sledovat sociální sítě!"
 
   
 ################### call to action #################
