@@ -16,14 +16,6 @@ vision:
   section : "Novinky"
   vision_item:
 
-  - title : "MetanolFest 2023"
-    image : "images/empty.png"
-    content : "Kapela zahraje v Country Clubu Lucie v Hradci  Králové 14.10.2023 od 18:00 hodin"
-
-  - title : "Rocková Kalná III. 2023"
-    image : "images/empty.png"
-    content : "Hrajeme v Dolní Kalné (okres Trutnov) 28.10.2023 od 19:00 hodin"
-
   - title : "Městské slavnosti v Pardubicích"
     image : "images/empty.png"
     content : "Hrajeme na Pernštýnském náměstí v Pardubicích 14.12.2023 od 16:30 hodin"
@@ -46,14 +38,6 @@ career:
   enable : true
   title : "Aktuální koncerty"
   job_item:
-
-  - name : "MetanolFest 2023"
-    location : "14.10.2023 od 18:00, Country Club Lucie Hradec Králové"
-    form_link : "https://qrticket.cz/produkt/metanolfest-2/"
-
-  - name : "Rocková Kalná III. 2023"
-    location : "28.10.2023 od 19:00, Dolní Kalná (okres Trutnov)"
-    form_link : "https://qrticket.cz/produkt/rockova-kalna-lli/"
 
   - name : "Tři sestry & Horkýže Slíže (předkapela)"
     location : "25.11.2023 od 18:20, KD Střelnice Hradec Králové"
