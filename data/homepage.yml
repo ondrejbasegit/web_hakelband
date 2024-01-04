@@ -40,13 +40,6 @@ career:
   enable : true
   title : "Aktuální koncerty"
   job_item:
-  - name : "Tři sestry & Horkýže Slíže (předkapela)"
-    location : "25.11.2023 od 18:20, KD Střelnice Hradec Králové"
-    form_link : "https://www.ticketstream.cz/akce/tri-sestry-horkyze-slize-bratia-a-sestry-tour-2023-173533?booker=sisters"
-  
-  - name : "Tři sestry & Horkýže Slíže (předkapela)"
-    location : "25.11.2023 od 18:20, KD Střelnice Hradec Králové"
-    form_link : "https://www.ticketstream.cz/akce/tri-sestry-horkyze-slize-bratia-a-sestry-tour-2023-173533?booker=sisters"
 
 probehle:
   enable : true
