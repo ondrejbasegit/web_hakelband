@@ -100,6 +100,13 @@
               <i class="fa fa-play"></i>
             </a>
           </div>
+          <div class="video image-reveal">
+            <a class="video-play"
+              data-video="https://www.youtube.com/embed/{{.video_id_2}}?autoplay=1&showinfo=0&controls=0">
+              <img src="{{ .video_thumb_3 | absURL }}" class="img-fluid" alt="video-thumb-3">
+              <i class="fa fa-play"></i>
+            </a>
+          </div>
           <br>
           <br>
           <br>
@@ -153,8 +160,32 @@
 {{ end }}
 {{ end }}
 
-<!--====  End of Koncerty  ====-->
+{{ if site.Data.homepage.probehle.enable }}
+{{ with site.Data.homepage.probehle }}
+<section class="probehle-list section pt-0" id="probehle">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 col-lg-10 m-auto">
+				<div class="block">
+					<div class="title text-center">
+						<h2>{{ .title | markdownify }}</h2>
+					</div>
+					{{ range .job_item }}
+					<div class="job">
+						<div class="content">
+							<p>{{ .location | markdownify }}</p>
+						</div>
+					</div>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}
 
+<!--====  End of Koncerty  ====-->
 
 {{ if site.Data.homepage.product.enable }}
 {{ with site.Data.homepage.product }}

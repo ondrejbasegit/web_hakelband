@@ -26,19 +26,52 @@ mission:
   title : "Videoklipy"
   section : "Videoklipy"
   content : "Videoklip k písni Pihovatá je venku!"
-  video_thumb_1: "images/video-thumb-3.jpg"
-  video_id_1: "_zaxP_LQBXo"
+  video_thumb_1: "images/video-thumb-4.jpg"
+  video_id_1: "SExkY-jnXSA"
   video_thumb_2: "images/video-thumb-1.jpg"
   video_id_2: "pPo2wYIi_EE"
+  video_thumb_3: "images/video-thumb-3.jpg"
+  video_id_3: "_zaxP_LQBXo"
   footer : "Další videoklipy <br>sledujte [zde!](https://www.youtube.com/channel/UC3YkcU2OmbZJPgwS047DiEw)"
   footer_desc : ""
 
-########### Career ############
+########### Koncerty ############
 career:
   enable : true
   title : "Aktuální koncerty"
   job_item:
+  - name : "Tři sestry & Horkýže Slíže (předkapela)"
+    location : "25.11.2023 od 18:20, KD Střelnice Hradec Králové"
+    form_link : "https://www.ticketstream.cz/akce/tri-sestry-horkyze-slize-bratia-a-sestry-tour-2023-173533?booker=sisters"
+  
+  - name : "Tři sestry & Horkýže Slíže (předkapela)"
+    location : "25.11.2023 od 18:20, KD Střelnice Hradec Králové"
+    form_link : "https://www.ticketstream.cz/akce/tri-sestry-horkyze-slize-bratia-a-sestry-tour-2023-173533?booker=sisters"
 
+probehle:
+  enable : true
+  title : "Proběhlé koncerty"
+  job_item:
+  - name : "Tři sestry & Horkýže Slíže (předkapela)"
+    location : "
+    2023<br>
+    > Tři sestry & Horkýže Slíže (předkapela), 25.11.2023, KD Střelnice Hradec Králové<br>
+    > MetanolFest 2023, 14.10.2023, Country Club Lucie Hradec Králové<br>
+    > Rocková Kalná III. 2023, 28.10.2023, Dolní Kalná<br>
+    > Jízdárna fest, 19.08.2023, Zámecký park v Rychnově nad Kněžnou<br>
+    > VRŠCE FEST, 02.09.2023, VRŠCE<br>
+    > Slavnosti Hořických trubiček 2023, 02.09.2023, náměstí Hořice<br>
+    > Hradec sobě pod babykou, 02.09.2023, Lodivadlo na Kavčím plácku (HK)<br>
+    > Mirotické setkání loutek a hudby, 04.08.2023, Mirotice<br>
+    > Slamák Rock Fest 2023, 05.08.2023, Letní Parket Újezd u Přelouče<br>
+    > Pouťový jarmark Libčany, 05.08.2023, fotbalové hřiště v Libčanech (HK)<br>
+    > Dubina Cup, 15.07.2023, Bílá Třemešná<br>
+    > Divadelní festival, 30.06.2023, Hradec Králové<br>
+    > Eltech, 06.06.2023, Horný Smokovec<br>
+    > JamRock, 02.06.2023, Letohrad<br>
+    > Hradecké Čarodejnice na Stříbrňáku, 30.04.2023, Hradec Králové<br>
+    ...
+    "
 
 #################### Kapela ####################
 product:

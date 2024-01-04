@@ -1,4 +1,4 @@
-.career-featured{
+.probehle-featured{
 	.block{
 		display: flex;
 		@include tablet {
@@ -75,7 +75,7 @@
 	}
 }
 
-.job-list{
+.probehle-list{
 	.block{
 		padding: 50px 80px;
 		background: lighten($color: $body-color, $amount: 10);
@@ -91,7 +91,7 @@
 		        flex-wrap: wrap;
 			}
 			.content{
-                flex-basis: 60%;
+                flex-basis: 100%;
 			    @include tablet {
                     flex-basis: 100%;
 			    	width: 100%;
@@ -106,6 +106,7 @@
                 p{
                     font-size: 18px;
                     letter-spacing: 1px;
+                    color: rgba(255, 255, 255, 0.5);
                 }
 			}
 			.apply-button{
@@ -180,21 +181,5 @@
             margin-bottom: 30px;
             }
         }
-    }
-}
-
-.apply-btn{
-    padding: 15px 25px;
-    background: $btn-color;
-    color: $white;
-    border-radius: 0;
-    letter-spacing: 2px;
-    text-decoration: none;
-    outline: 0;
-    border: none;
-    cursor: pointer;
-    &:hover{
-        color: $white;
-        text-decoration: none;
     }
 }
