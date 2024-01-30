@@ -16,6 +16,10 @@ vision:
   section : "Novinky"
   vision_item:
 
+  - title : "Křivolaký cesty"
+    image : "images/empty.png"
+    content : "Ve spolupráci s Nova Action a Nova Sport  jsme vytvořili song pro dakarské závodníky, jejich týmy a také pro všechny fanoušky Rallye Dakar. Můžete ho sledovat [zde!](https://www.youtube.com/watch?v=pMUstMTUb44)"
+
   - title : "Městské slavnosti v Pardubicích"
     image : "images/empty.png"
     content : "Hrajeme na Pernštýnském náměstí v Pardubicích 14.12.2023 od 16:30 hodin"
@@ -47,6 +51,10 @@ career:
   - name : "DOSSIFEST"
     location : "15.06.2024, Horní Sloupnice"
     form_link : "https://www.facebook.com/dosifest/"
+
+  - name : "Stadion cup Břehy"
+    location : "09.08.2024, Horní Sloupnice"
+    form_link : "https://www.mopedbrehy.cz/stadion-cup-2024/"
 
 probehle:
   enable : true
