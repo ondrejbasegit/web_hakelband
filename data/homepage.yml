@@ -40,6 +40,10 @@ career:
   enable : true
   title : "Aktuální koncerty"
   job_item:
+  - name : " Hradecké Čarodějnice pod lízátky 2024"
+    location : "30.04.2024, Hradec Králové"
+    form_link : "https://fb.me/e/8LsmSlhMD"
+
   - name : "ELTECH SK"
     location : "11.06.2024, Horný Smokovec"
     form_link : "https://elektromanagement.sk/eltech-sk/"
@@ -47,6 +51,10 @@ career:
   - name : "DOSSIFEST"
     location : "15.06.2024, Horní Sloupnice"
     form_link : "https://www.facebook.com/dosifest/"
+
+  - name : "Mezinárodní divadelní festival Hradec Králové"
+    location : "27.06.2024, Hradec Králové"
+    form_link : "https://fb.me/e/3j96uV7eQ"
 
   - name : "Stadion cup Břehy"
     location : "09.08.2024, Břehy"
@@ -139,4 +147,4 @@ call_to_action:
   enable : false
   title : ""
   button_label : ""
-  button_link : ""
+  button_link : "" 
