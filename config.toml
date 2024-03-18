@@ -40,12 +40,6 @@ url = "kapela"
 weight = 5
 
 [[menu.main]]
-name = "Hakelfest"
-pre = "#"
-url = "hakelfest"
-weight = 6
-
-[[menu.main]]
 name = "Kontakt / Ke stažení"
 pre = "#"
 url = "kontakt"

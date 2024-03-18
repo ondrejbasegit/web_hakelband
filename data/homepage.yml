@@ -124,15 +124,6 @@ product:
     content : "Baskytara, zpěv. Oblíbená hudba: Rock, Metal. Oblíbená kapela: Guns and Roses, Aerosmith, As I lay dying, Killswitch Engage, Mnemic. Nejlepší CD: Use your Illusion."
     project_url : "#"
 
-
-#################### Hakelfest ####################
-hakelfest:
-  enable : true
-  section : "Hakelfest"
-  title : "Hakelfest"
-  content : "Hakelfest je rockový festival konající se pod záštitou firmy [Hakel](https://www.hakel.com)<br>Sledujte nás a dozvíte se více vždy mezi prvními."
-
-
 ###################### Contact ###################
 contact:
   enable : true
