@@ -19,10 +19,14 @@ vision:
     image : "images/novinky/trnova_koruna.jpg"
     content : "Představujeme nové album Trnová koruna, které ukrývá 12 našlápnutých rockových písní + 1 křivolaký bonus. CD je v prodeji na našich koncertech nebo pište na [hakelband@hakel.cz](mailto:hakelband@hakel.cz)"
 
-  - title : "Křivolaký cesty"
-    image : "images/empty.png"
-    content : "Ve spolupráci s Nova Action a Nova Sport jsme vytvořili song pro dakarské závodníky, jejich týmy a také pro všechny fanoušky Rallye Dakar. Můžete ho sledovat [zde!](https://www.youtube.com/watch?v=pMUstMTUb44)"
+  - title : ""
+    image : "images/novinky/trnova_koruna_2.jpg"
+    content : ""
 
+  - title : ""
+    image : "images/novinky/trnova_koruna_3.jpg"
+    content : ""
+    
 #################### Videoklipy #####################
 mission:
   enable : true
