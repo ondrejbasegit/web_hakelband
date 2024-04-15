@@ -15,7 +15,7 @@ vision:
   enable : true
   section : "Novinky"
   vision_item:
-  - title : "Trnová koruna"
+  - title : "<br><br><br><br><br><br>Trnová koruna"
     image : "images/novinky/trnova_koruna.jpg"
     content : "Představujeme nové album Trnová koruna, které ukrývá 12 našlápnutých rockových písní + 1 křivolaký bonus. CD je v prodeji na našich koncertech nebo pište na [hakelband@hakel.cz](mailto:hakelband@hakel.cz)"
 
@@ -26,7 +26,7 @@ vision:
   - title : ""
     image : "images/novinky/trnova_koruna_3.jpg"
     content : ""
-    
+
 #################### Videoklipy #####################
 mission:
   enable : true
