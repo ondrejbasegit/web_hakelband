@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "HAKEL BAND"
-  content : "Nové album <br><b>Moucha v pivu <br>[nyní v prodeji!](mailto:hakeklband@hakel.cz)</b>"
+  content : "Nové album <br><b>Trnová koruna <br>[nyní v prodeji!](https://www.hakelband.cz/#novinky)</b>"
   image : "images/hero-image/hakelband_uvod.jpg"
   button:
     enable : true
@@ -15,10 +15,9 @@ vision:
   enable : true
   section : "Novinky"
   vision_item:
-
-  - title : "Křivolaký cesty"
-    image : "images/empty.png"
-    content : "Ve spolupráci s Nova Action a Nova Sport jsme vytvořili song pro dakarské závodníky, jejich týmy a také pro všechny fanoušky Rallye Dakar. Můžete ho sledovat [zde!](https://www.youtube.com/watch?v=pMUstMTUb44)"
+  - title : "<br>Trnová koruna"
+    image : "images/novinky/trnova_koruna.jpg"
+    content : "<br>Představujeme nové album Trnová koruna, které ukrývá 12 našlápnutých rockových písní + 1 křivolaký bonus. CD je v prodeji na našich koncertech nebo pište na [hakelband@hakel.cz](mailto:hakelband@hakel.cz)"
 
 #################### Videoklipy #####################
 mission:
