@@ -40,10 +40,6 @@ career:
   enable : true
   title : "Aktuální koncerty"
   job_item:
-  - name : " Hradecké Čarodějnice pod lízátky 2024"
-    location : "30.04.2024, Hradec Králové"
-    form_link : "https://fb.me/e/8LsmSlhMD"
-
   - name : "ELTECH SK"
     location : "11.06.2024, Horný Smokovec"
     form_link : "https://elektromanagement.sk/eltech-sk/"
@@ -55,6 +51,10 @@ career:
   - name : "Mezinárodní divadelní festival Hradec Králové"
     location : "27.06.2024, Hradec Králové"
     form_link : "https://fb.me/e/3j96uV7eQ"
+
+  - name : "SLUNCE SENO slaví 40 let"
+    location : "06.07.2024, JZD Hoštice u Volyně"
+    form_link : "https://www.ticketlive.cz/cs/event/slunce-seno-slavi-40-let-jzd-hostice-u-volyne-06-07-2024"
 
   - name : "Stadion cup Břehy"
     location : "09.08.2024, Břehy"
@@ -71,6 +71,7 @@ probehle:
   - name : "Tři sestry & Horkýže Slíže (předkapela)"
     location : "
     2023<br>
+    > Hradecké Čarodějnice pod lízátky 2024, 30.04.2024, Hradec Králové<br>
     > Městské slavnosti, 14.12.2023, Pardubice<br>
     > Tři sestry & Horkýže Slíže (předkapela), 25.11.2023, KD Střelnice Hradec Králové<br>
     > Rocková Kalná III. 2023, 28.10.2023, Dolní Kalná<br>
