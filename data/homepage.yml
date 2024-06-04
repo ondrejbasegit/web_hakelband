@@ -67,6 +67,10 @@ career:
     location : "31.08.2024 od 18:00 hodin, Pardubice"
     form_link : "https://pardubickyfestivalvina.cz/"
 
+  - name : "Svatováclavské slavnosti v Dobrušce"
+    location : "27.09.2024, Dobruška"
+    form_link : ""
+
 probehle:
   enable : true
   title : "Proběhlé koncerty"
